@@ -1,0 +1,54 @@
+.output * {
+box-sizing: border-box;
+}
+
+.cal uf {
+ padding-left: 0;
+}
+
+.cal ul {
+ padding-left: 0;
+}
+
+ul li {
+display: block;
+float: left;
+width: 13%;
+border: 2px solid white;
+padding: 5px;
+height: 40px;
+background-color: #565EF9;
+color: white;
+}
+
+uf li {
+display: block;
+float: left;
+width: 13%;
+text-align: center;
+border: 2px solid white;
+padding: 5px;
+height: 30px;
+background-color: #4A2DB6;
+color: white;
+}
+
+html {
+font-family: sans-serif;
+}
+
+h2 {
+font-size: 16px;
+}
+
+.a11y-label {
+margin: 0;
+text-align: right;
+font-size: 0.7rem;
+width: 98%;
+}
+
+body {
+margin: 10px;
+background: skyblue;
+}
